@@ -1,0 +1,4 @@
+Model,accuracy,precision,recall,f1
+Random Forest,0.999,0.995,1.0,0.997
+SVM,0.999,0.997,1.0,0.999
+XGBoost,0.998,0.994,1.0,0.997
